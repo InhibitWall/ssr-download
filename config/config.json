@@ -13,7 +13,7 @@
         "Windows": {
             "Clash": ["CFW.zip", "CFW.z01", "CFW.Z02", "CFW.Z03"],
             "Netch": ["Netch.zip", "Netch.z01", "Netch.z02"],
-            "SSTAP": ["SSTAP.zip"]
+            "SSTAP": ["SSTap.zip"]
         },
         "macOS": {
             "Clash": "ClashX.dmg"
