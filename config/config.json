@@ -11,7 +11,7 @@
             }
         },
         "Windows": {
-            "Clash": ["CFW.zip", "CFW.z01", "CFW.Z02", "CFW.Z03"],
+            "Clash": ["CFW.zip", "CFW.z01", "CFW.z02", "CFW.z03"],
             "Netch": ["Netch.zip", "Netch.z01", "Netch.z02"],
             "SSTAP": ["SSTap.zip"]
         },
