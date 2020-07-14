@@ -16,7 +16,7 @@
             "SSTAP": ["SSTAP.zip"]
         },
         "macOS": {
-            "Clash": ClashX.dmg
+            "Clash": "ClashX.dmg"
         }
     }
 }
