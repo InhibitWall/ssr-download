@@ -1,0 +1,22 @@
+{
+    "clients": {
+        "Android": {
+            "Clash": {
+                "arm64": "clash-arm64.apk",
+                "armeabi": "clash-armeabi.apk"
+            },
+            "ShadowsocksR": {
+                "arm64": "shadowsocksr-android.apk",
+                "armeabi": "shadowsocksr-android.apk"
+            }
+        },
+        "Windows": {
+            "Clash": ["CFW.zip", "CFW.z01", "CFW.Z02", "CFW.Z03"],
+            "Netch": ["Netch.zip", "Netch.z01", "Netch.z02"],
+            "SSTAP": ["SSTAP.zip"]
+        },
+        "macOS": {
+            "Clash": ClashX.dmg
+        }
+    }
+}
